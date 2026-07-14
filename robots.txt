@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-zgr6gz.yoursingles.online/sitemap.xml
